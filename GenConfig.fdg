@@ -31,9 +31,9 @@
     },
     "Docker": {
       "Dockerfile": true,
-      "DockerfileAutobuild": false,
-      "DockerBuildShellScript": false,
-      "DockerSwarm": false
+      "DockerfileAutobuild": true,
+      "DockerBuildShellScript": true,
+      "DockerSwarm": true
     },
     "Storage": {
       "Mssql": {
